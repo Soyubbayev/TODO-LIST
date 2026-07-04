@@ -1,28 +1,3 @@
-/* *{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  list-style: none;
-}
-
-.boxes{
-  width: 100%;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: dodgerblue;
-}
-.boxes__box{
-  width: 450px;
-  height: 550px;
-  background-color: #fff;
-  padding: 10px 20px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-} */
-
 *{
   margin: 0;
   padding: 0;
